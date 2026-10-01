@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hello! I am a shophomore CS Major at MSOE <br> 
 I am currently working on a Tetris Pygame, and training an AI. <br> 
+<p align="center">
+  <img src="./images/vivy-pc.png" width="600">
+</p>
 
 
 # 💻 Tech Stack:
